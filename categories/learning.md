@@ -88,4 +88,4 @@
 - 開源閱讀器多數 App Store 有，先試官方版
 - 電子書一定要合法來源
 
-返回：[收納庫目錄](../README.md) · [100 個開源 IPA 大全](../catalog.md)
+返回：[收納庫目錄](../README.md) · [200 個開源 IPA 大全](../catalog.md)

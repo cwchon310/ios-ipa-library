@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Topic](https://img.shields.io/badge/topic-sideloading-green)
-![Apps](https://img.shields.io/badge/apps-100-brightgreen)
+![Apps](https://img.shields.io/badge/apps-200-brightgreen)
 
 ---
 
@@ -51,7 +51,7 @@ The collection is organized by category. Each category lists **open-source / fre
 
 ### 🔗 100 Sideloadable Open-Source IPAs
 
-👉 **[catalog.md](catalog.md)** — 100 open-source / free iOS apps, **each with an official GitHub link**, organized by category. Pick and install now.
+👉 **[catalog.md](catalog.md)** — 200 open-source / free iOS apps, **each with an official GitHub link + download link**, organized by category. Pick and install now.
 
 ---
 

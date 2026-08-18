@@ -4,14 +4,14 @@
 
 # iOS IPA Library 🍎
 
-> 精選可側載 iOS IPA 收納庫＋完整簽名教學 — 收錄不同種類嘅開源／免費應用，教你點樣簽名裝上自己部電話。
+> 精選可側載 iOS IPA 收納庫＋完整簽名教學 — 收錄 **200 個**不同種類嘅開源／免費應用（全部附下載連結），教你點樣簽名裝上自己部電話。
 
 **🌐 Language:** 中文 | [English](README_EN.md)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Topic](https://img.shields.io/badge/topic-sideloading-green)
-![Apps](https://img.shields.io/badge/apps-100-brightgreen)
+![Apps](https://img.shields.io/badge/apps-200-brightgreen)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🔗 100 個可側載開源 IPA 大全
 
-👉 **[catalog.md](catalog.md)** — 100 個開源/免費 iOS 應用，**全部附上官方 GitHub 連結**，按種類分好，即刻揀嚟裝。
+👉 **[catalog.md](catalog.md)** — 200 個開源/免費 iOS 應用，**全部附上官方 GitHub 連結 + 下載連結**，按種類分好，即刻揀嚟裝。
 
 ---
 

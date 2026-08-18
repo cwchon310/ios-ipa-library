@@ -66,4 +66,4 @@
 - ROM 要自己有權限先得
 - 全部經 Sideloadly/AltStore/TrollStore 安裝
 
-返回：[收納庫目錄](../README.md) · [100 個開源 IPA 大全](../catalog.md)
+返回：[收納庫目錄](../README.md) · [200 個開源 IPA 大全](../catalog.md)

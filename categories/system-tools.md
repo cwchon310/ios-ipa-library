@@ -79,4 +79,4 @@
 - 開源下載：iTorrent
 - 系統工具受沙盒限制，想全系統要先了解越獄
 
-返回：[收納庫目錄](../README.md) · [100 個開源 IPA 大全](../catalog.md)
+返回：[收納庫目錄](../README.md) · [200 個開源 IPA 大全](../catalog.md)
