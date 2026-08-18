@@ -11,6 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Topic](https://img.shields.io/badge/topic-sideloading-green)
+![Apps](https://img.shields.io/badge/apps-100-brightgreen)
 
 ---
 
@@ -48,6 +49,10 @@ The collection is organized by category. Each category lists **open-source / fre
 
 > Each category article covers: **recommended projects + source (GitHub/website) + simple install guidance.**
 
+### 🔗 100 Sideloadable Open-Source IPAs
+
+👉 **[catalog.md](catalog.md)** — 100 open-source / free iOS apps, **each with an official GitHub link**, organized by category. Pick and install now.
+
 ---
 
 ## ✍️ Signing Tutorials (the core)
@@ -64,6 +69,7 @@ To install an IPA on iPhone/iPad, you must "sign" it. Here's the complete tutori
 | 06 | Developer account ($99/yr) — no expiry | [signing/06-developer-account.md](signing/06-developer-account.md) |
 | 07 | Signing tool comparison + safety | [signing/07-tools-comparison.md](signing/07-tools-comparison.md) |
 | 08 | FAQ | [signing/08-faq.md](signing/08-faq.md) |
+| 09 | **LiveContainer: run unlimited apps at once** | [signing/09-livecontainer.md](signing/09-livecontainer.md) |
 
 ---
 

@@ -89,4 +89,4 @@ Firefox / Brave / DuckDuckGo：全部 App Store 有、開源
 - 要側載嘅：Element 等自架 server 嘅進階用戶
 - 網絡工具同 VPN 一定要官方來源
 
-返回：[收納庫目錄](../README.md)
+返回：[收納庫目錄](../README.md) · [100 個開源 IPA 大全](../catalog.md)

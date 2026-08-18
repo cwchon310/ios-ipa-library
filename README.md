@@ -11,6 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Topic](https://img.shields.io/badge/topic-sideloading-green)
+![Apps](https://img.shields.io/badge/apps-100-brightgreen)
 
 ---
 
@@ -48,6 +49,10 @@
 
 > 每個種類文章會寫：**推薦項目＋來源（GitHub/官網）＋簡單安裝指引**。
 
+### 🔗 100 個可側載開源 IPA 大全
+
+👉 **[catalog.md](catalog.md)** — 100 個開源/免費 iOS 應用，**全部附上官方 GitHub 連結**，按種類分好，即刻揀嚟裝。
+
 ---
 
 ## ✍️ 簽名教學（重點）
@@ -64,6 +69,7 @@
 | 06 | 用開發者帳號（$99/年）簽名無效期 | [signing/06-developer-account.md](signing/06-developer-account.md) |
 | 07 | 簽名工具大全對比＋注意事項 | [signing/07-tools-comparison.md](signing/07-tools-comparison.md) |
 | 08 | 常見問題 FAQ | [signing/08-faq.md](signing/08-faq.md) |
+| 09 | **LiveContainer：一次過跑無限個 app** | [signing/09-livecontainer.md](signing/09-livecontainer.md) |
 
 ---
 
