@@ -71,6 +71,7 @@
 | 07 | 簽名工具大全對比＋注意事項 | [signing/07-tools-comparison.md](signing/07-tools-comparison.md) |
 | 08 | 常見問題 FAQ | [signing/08-faq.md](signing/08-faq.md) |
 | 09 | **LiveContainer：一次過跑無限個 app** | [signing/09-livecontainer.md](signing/09-livecontainer.md) |
+| 10 | **簽名常見問題與修復（FAQ）** | [signing/10-troubleshooting.md](signing/10-troubleshooting.md) |
 
 ---
 
