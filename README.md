@@ -12,6 +12,7 @@
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Topic](https://img.shields.io/badge/topic-sideloading-green)
 ![Apps](https://img.shields.io/badge/apps-200-brightgreen)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 ---
 
@@ -49,7 +50,7 @@
 
 > 每個種類文章會寫：**推薦項目＋來源（GitHub/官網）＋簡單安裝指引**。
 
-### 🔗 100 個可側載開源 IPA 大全
+### 🔗 200 個可側載開源 IPA 大全
 
 👉 **[catalog.md](catalog.md)** — 200 個開源/免費 iOS 應用，**全部附上官方 GitHub 連結 + 下載連結**，按種類分好，即刻揀嚟裝。
 
@@ -114,12 +115,15 @@
 想加一個開源 app 入收納庫？想加一篇教學？歡迎 PR！
 
 要求：
+
 - 只收**開源／免費／合法**項目
 - 附來源連結（GitHub／官網）
 - 教學文章結構清晰、步驟可重複
+
+詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
 ## 📄 License
 
-MIT — 自由使用、修改、轉載（請保留聲明）。
+MIT License — 自由使用、修改、轉載（請保留聲明）。
