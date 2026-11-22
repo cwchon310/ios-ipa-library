@@ -2,7 +2,7 @@
 
 > 200 個**開源／免費／合法**嘅 iOS 應用，**全部附上「下載連結」**（GitHub Releases 下載頁／官方下載頁）。每個都可以直接落 IPA 或者自己 Build。
 
-**🌐 Language:** 中文 | [English](catalog_EN.md)（製作中）
+**🌐 Language:** 中文
 
 ## 點樣用呢個清單
 

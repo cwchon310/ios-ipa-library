@@ -49,7 +49,7 @@ The collection is organized by category. Each category lists **open-source / fre
 
 > Each category article covers: **recommended projects + source (GitHub/website) + simple install guidance.**
 
-### 🔗 100 Sideloadable Open-Source IPAs
+### 🔗 200 Sideloadable Open-Source IPAs
 
 👉 **[catalog.md](catalog.md)** — 200 open-source / free iOS apps, **each with an official GitHub link + download link**, organized by category. Pick and install now.
 
